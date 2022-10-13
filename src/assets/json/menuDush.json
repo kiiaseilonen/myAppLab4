@@ -1,0 +1,67 @@
+{ 
+  "status": "success",
+  "code": 1,
+  "message": "questions found",
+  "document": {
+    "page": 1,
+    "pagesize": 10,
+    "records":
+  [
+
+    {
+      "id": 1,
+      "name": "RicePlate",
+      "image": "001.jpg"
+    },
+  
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "image": "002.jpeg"
+    },
+  
+    {
+      "id": 3,
+      "name": "Vege Pizza",
+      "image": "003.jpeg"
+    },
+  
+    {
+      "id": 4,
+      "name": "Tuna Sandwitch",
+      "image": "004.jpeg"
+    },
+  
+    {
+      "id": 5,
+      "name": "Sushi Plate",
+      "image": "005.jpeg"
+    },
+
+    {
+      "id": 6,
+      "name": "Chicken tacos",
+      "image": "006.jpeg"
+    },
+  
+    {
+      "id": 7,
+      "name": "Pho Soup",
+      "image": "007.jpeg"
+    },
+  
+    {
+      "id": 8,
+      "name": "Pasta",
+      "image": "008.jpeg"
+    },
+  
+    {
+      "id": 9,
+      "name": "Salad",
+      "image": "009.jpeg"
+    }
+  
+  ]
+}
+}
